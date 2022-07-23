@@ -1,39 +1,4 @@
-body{
-    font-family: sans-serif;
-    padding: 30px 0  30px;
-}
-
-#main{
-    background-color: rgb(227, 227, 241);
-    text-align: center;
-    padding: 20px 0 30px;
-    border-radius: 6px;
-}
-
-#title{
-    font-size: 50px;
-    font-weight: bolder;
-}
-
-#headline{
-    padding: 50px;
-}
-
-p{
-    font-size: 20px;
-}
-
-#img-caption{
-    font-size: 20px;
-    margin: 20px 0;
-}
-
-#img-div{
-    background-color: #fff;
-    margin: 0 20px;
-    padding: 15px 0;
-}
-
-#image{
-    max-width: 100%;
-    margin:  auto;
+html, body {
+    height: 100%;
+    width: 100%;
+  }
